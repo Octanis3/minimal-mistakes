@@ -3,6 +3,6 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: /about
   - title: "System Overview"
-    url: /system/
+    url: /system
