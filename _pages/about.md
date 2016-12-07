@@ -1,19 +1,15 @@
 ---
   sidebar:
-    - title: "Title"
-      image: /assets/img/
-      image_alt: "image"
-      caption: "Some text here."
-    - title: "Another Title"
-      text: "More text here."
+    - title: "View from Nestbox (I.Henry)."
+      image: /assets/img/View_from_nestbox_iHenry.JPG
+      image_alt: "View_from_nestbox_iHenry.JPG"
+    - title: "Male visiting chicks (A.Aebischer)."
+      image: /assets/img/Male_visiting_nestbox_with_chicks_aAebischer.jpg
 
-
+  title: "Why monitor and how?"
   layout: single
   permalink: /about
 ---
-
-
-<h1>Why monitor and how?</h1>
 
 The movements of individuals can already be studied by putting a GPS on the owls. However, these devices are very costly, which limits the number of individuals studied. Moreover, the device is energy-greedy and can only record for a few days. Then, the owl has to be caught again to obtain the data. The results of those analyses are expressed in term of habitat use, predation behavior, home range, in the broad area of animal movement ecology (view some results of the GPS tracking).
 
@@ -24,18 +20,9 @@ Our idea is to produce a large number of low-cost devices that could be put on e
 Once developed, this device could be adapted by any animal ecology scientist to suit their studied species (cavity-nesting birds, small mammals nesting in holes, …). Such a device should prove very valuable to all scientists performing animal population monitoring. Indeed, it could be used to study individual tracks and thus infer information about individual behavior (movements, nesting behavior, dispersion), social behavior (intensity, frequency, social network). Using individual recapture, one is also able to reconstruct population parameters such as individual survival, dispersion, and population size, thus allowing to make important assumption about population trends.
 
 
-We: design e, let student test, add a page on device + specs
-Student project: Testing / rigor
-
-1) finish and send website
-2) after approval of unil group, send cold calls to labs that could "house" the sem/bach prpoject
-3) advertise sem/bach project
-
-alexandre.roulin@unil.ch, robin.sechaud@unil.ch
-
-
 <h2>Who is involved?</h2>
-Octanis, an EPFL association, will take care of the device development and production. The Barn Owls group research of Alexandre Roulin at Unil contributes the requirements and will be the first to use it in the field.
+Octanis, an EPFL association, will undertake device engineering and development. The Barn Owls group research of <a target="_blank" href="https://www.unil.ch/dee/home/menuinst/research-groups/roulin-group.html">Alexandre Roulin at UNIL</a> contributes the requirements and will be the first to use it in the field.
 
 
-http://www.unil.ch/dee/en/home/menuinst/research/roulin-group.html
+<h2>Get involved!</h2>
+Would you like to help us build and test the prototype? Get in touch with us by sending an email to <a href="mailto:info@octanis.org">info@octanis.org</a> . We are currently looking for motivated Bachelor students willing to dedicate their semester or Bachelor thesis to a challenge within Octanis 3.

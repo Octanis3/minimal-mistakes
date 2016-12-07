@@ -29,7 +29,8 @@
   }
 
   h2, h3, h4, h5, h6 {
-    margin-bottom: 0;
+    margin: 0.1em 0 1.5em 0;
+    font-size: 0.7em;
     font-family: $sans-serif-narrow;
   }
 
@@ -81,7 +82,7 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0px;
       border: 1px solid $border-color;
     }
   }

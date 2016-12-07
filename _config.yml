@@ -11,7 +11,7 @@ title                    : "<img src='/assets/img/owl.png' class='headerlogo' />
 title_separator          : "-"
 name                     : "Octanis Association"
 description              : "Octanis 3 Mission"
-url                      : "https://nestbox.octanis.org"
+url                      : "http://nestbox.octanis.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "octanis3/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
