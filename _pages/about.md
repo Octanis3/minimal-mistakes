@@ -22,7 +22,9 @@ Once developed, this device could be adapted by any animal ecology scientist to 
 
 <h2>Who is involved?</h2>
 <a href="http://octanis.org">Octanis</a>, an EPFL association, will undertake device engineering and development. The Barn Owls group research of <a target="_blank" href="https://www.unil.ch/dee/home/menuinst/research-groups/roulin-group.html">Alexandre Roulin at UNIL</a> contributes the requirements and will be the first to use it in the field.
+Furthermore, the <a href="
+http://rfic.epfl.ch/">RFIC lab at EPFL</a> will be available to supervise the semester project of a Master student within the scope of the smart nestbox development.
 
 
 <h2>Get involved!</h2>
-Would you like to help us build and test the prototype? Get in touch with us by sending an email to <a href="mailto:info@octanis.org">info@octanis.org</a> . We are currently looking for motivated Bachelor students willing to dedicate their semester or Bachelor thesis to a challenge within Octanis 3.
+Would you like to help us build and test the prototype? Get in touch with us by sending an email to <a href="mailto:info@octanis.org">info@octanis.org</a> . We are currently looking for motivated students willing to dedicate their <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>semester project</a> or spare time to a challenge within Octanis 3.

@@ -26,3 +26,8 @@ Are you a motivated and hard-working student wanting to take part in an extraord
 </ul>
 
 <a href="http://octanis.org/start" class="btn btn--dark-outline btn--large">Join</a>
+
+
+<h2>For EPFL Master students: Do your semester project with Octanis!</h2>
+Applications for the 2017 spring semester are open until the end of January. <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>Download the project description here.</a>
+
