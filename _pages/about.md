@@ -21,7 +21,7 @@ Once developed, this device could be adapted by any animal ecology scientist to 
 
 
 <h2>Who is involved?</h2>
-<a href="http://octanis.org">Octanis</a>, an EPFL association, will undertake device engineering and development. The Barn Owls group research of <a target="_blank" href="https://www.unil.ch/dee/home/menuinst/research-groups/roulin-group.html">Alexandre Roulin at UNIL</a> contributes the requirements and will be the first to use it in the field.
+<a href="http://octanis.org">Octanis</a>, an EPFL association, will undertake device engineering and development. The Barn Owls group research of <a target="_blank" href="https://www.unil.ch/dee/en/home/menuinst/research/roulin-group.html">Alexandre Roulin at UNIL</a> contributes the requirements and will be the first to use it in the field.
 Furthermore, the <a href="
 http://rfic.epfl.ch/">RFIC lab at EPFL</a> will be available to supervise the semester project of a Master student within the scope of the smart nestbox development.
 
