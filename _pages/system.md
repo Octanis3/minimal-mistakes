@@ -24,11 +24,17 @@
 <h2>Timeline</h2>
 <dl>
  <dt>December '16</dt>
- <dd>Kickoff project, call for students!</dd>
- <dt>April '17</dt>
- <dd>Deploy revision 1 prototype in a real nestbox.</dd>
- <dt>July '17</dt>
- <dd>Iterate, produce revision 2.</dd>
+ <dd>Project kickoff!</dd>
+ <dt>June '17</dt>
+ <dd>Revision 1 prototype assembled and tested.</dd>
+ <dt>October '17</dt>
+ <dd>Iterate, design revision 2.</dd>
+ <dt>December '17</dt>
+ <dd>Assemble revision 2.</dd>
+ <dt>January '18</dt>
+ <dd>Realistic tests in indoor nestbox.</dd>
+ <dt>February '18</dt>
+ <dd>Small volume production for outdoor tests.</dd>
 </dl>
 
 <h2>System Diagram</h2>

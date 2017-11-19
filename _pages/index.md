@@ -19,15 +19,16 @@ Are you a motivated and hard-working student wanting to take part in an extraord
 <ul>
   <li>LoRa network range extension and testing.</li>
   <li>Embedded software development on MSP430.</li>
+  <li>LF RFID antenna design and tag decoding.</li>
   <li>Energy management and optimisation.</li>
-  <li>End-user app development (NFC).</li>
+  <li>End-user app development.</li>
   <li>Application server development.</li>
-  <li>Citizen relations, comm and operations.</li>
+  <li>Citizen relations, communication and operations.</li>
 </ul>
 
-<a href="http://octanis.org/start" class="btn btn--dark-outline btn--large">Join</a>
+<a href="mailto:info@octanis.org?subject=I would like to join the Nestbox Project!" class="btn btn--dark-outline btn--large">Join</a>
 
 
 <h2>For EPFL Master students: Do your semester project with Octanis!</h2>
-Applications for the 2017 spring semester are open until the end of January. <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>Download the project description here.</a>
+Applications for the 2018 spring semester are open until the end of January. <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>Download the project description here.</a>
 
