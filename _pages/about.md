@@ -25,6 +25,8 @@ Once developed, this device could be adapted by any animal ecology scientist to 
 Furthermore, the <a href="
 http://rfic.epfl.ch/">RFIC lab at EPFL</a> will be available to supervise the semester project of a Master student within the scope of the smart nestbox development.
 
+Having a need for monitoring the weight fluctuation of owls, the Swiss Ornithological Institute (<a href="http://www.vogelwarte.ch/">Vogelwarte Sempach</a>) expressed their interest in adapting the Octanis Nesbox device to perform automatic weight measurements. The devices will be used as part of a PhD thesis conducted at the institute, for which batch of 40 devices will be ready to be installed for the winter season 2018/19. 
+
 
 <h2>Get involved!</h2>
 Would you like to help us build and test the prototype? Get in touch with us by sending an email to <a href="mailto:info@octanis.org">info@octanis.org</a> . We are currently looking for motivated students willing to dedicate their <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>semester project</a> or spare time to a challenge within Octanis 3.
