@@ -14,27 +14,31 @@
 
 <h2>Requirements</h2>
 <ul>
-  <li>The scanner must have a 6 month energy autonomy.</li>
+  <li>The Smart Nestbox must have a 3 month energy autonomy.</li>
   <li>Industry standard RFID tags are used. </li>
   <li>Must withstand harsh weather conditions (wind, snow, rain).</li>
-  <li>Low cost design with off the shelf components used.</li>
-  <li>Single PCB system.</li>
+  <li>Low cost design using off the shelf components.</li>
+  <li>Easy installation and intuitive data extraction.</li>
 </ul>
 
-<h2>Timeline</h2>
+<h2>Project History</h2>
 <dl>
  <dt>December '16</dt>
  <dd>Project kickoff!</dd>
  <dt>June '17</dt>
  <dd>Revision 1 prototype assembled and tested.</dd>
  <dt>October '17</dt>
- <dd>Iterate, design revision 2.</dd>
+ <dd>Change of RFID technology, design revision 2.</dd>
  <dt>December '17</dt>
  <dd>Assemble revision 2.</dd>
- <dt>January '18</dt>
- <dd>Realistic tests in indoor nestbox.</dd>
  <dt>February '18</dt>
- <dd>Small volume production for outdoor tests.</dd>
+ <dd>Additial requirement: weight measurement.</dd>
+ <dt>March '18</dt>
+ <dd>First system-level tests of the prototype with outdoor nestbox and actual owls.</dd>
+ <dt>October '18</dt>
+ <dd>Begin of batch production of 40 devices for a research project.</dd>
+ <dt>January '19</dt>
+ <dd>Installation of the 40 devices.</dd>
 </dl>
 
 <h2>System Diagram</h2>

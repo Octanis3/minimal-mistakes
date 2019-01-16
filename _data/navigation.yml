@@ -6,3 +6,5 @@ main:
     url: /about
   - title: "Project Overview"
     url: /project
+  - title: "Configuration Center"
+    url: /config

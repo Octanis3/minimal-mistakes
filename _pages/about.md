@@ -1,7 +1,7 @@
 ---
   sidebar:
-    - title: "View from Nestbox (I.Henry)."
-      image: /assets/img/View_from_nestbox_iHenry.JPG
+    - title: "View from Nestbox with detection pad."
+      image: /assets/img/Perch_estavayer.jpg
       image_alt: "View_from_nestbox_iHenry.JPG"
     - title: "Male visiting chicks (A.Aebischer)."
       image: /assets/img/Male_visiting_nestbox_with_chicks_aAebischer.jpg

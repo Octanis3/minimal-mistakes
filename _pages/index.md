@@ -2,8 +2,8 @@
   sidebar: false
   permalink: /
   layout: splash
-  title: "Digital Nestboxes"
-  excerpt: "Octanis 3 sets out on a mission to equip Switzerland's owl nestboxes with an electronic addon. The device enables owl identification in real time on an open web platform."
+  title: "Smart Nestboxes"
+  excerpt: "Octanis 3 sets out on a mission to equip Switzerland's owl nestboxes with an electronic addon. The device enables owl identification and weight logging during 365 days per year."
   header:
       overlay_image: /assets/img/Barn_Owl_Pair_iHenry.JPG
       cta_url: "/about"
@@ -39,5 +39,5 @@ Are you a motivated and hard-working student wanting to take part in an extraord
 
 
 <h2>For EPFL Master students: Do your semester project with Octanis!</h2>
-Applications for the 2018 spring semester are open until the end of January. <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>Download the project description here.</a>
+Applications for the 2019 spring semester are open until the end of January. <a href="assets/pdf/Semester_Project_Octanis_RFID_reader_design_for_Owl_Monitoring.pdf" download>Download the project description here.</a>
 
