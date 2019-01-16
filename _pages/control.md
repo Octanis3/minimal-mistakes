@@ -4,7 +4,7 @@
   permalink: /config
   sidebar: false
   header:
-      overlay_image: /assets/img/pcbs.JPG
+      overlay_image: /assets/img/pcbs.jpg
       caption: "RFID readers powering the smart Nestboxes"
 ---
 
