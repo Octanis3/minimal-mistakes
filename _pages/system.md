@@ -26,7 +26,12 @@
  <dt>December '16</dt>
  <dd>Project kickoff!</dd>
  <dt>June '17</dt>
- <dd>Revision 1 prototype assembled and tested.</dd>
+ <dd>Revision 1 prototype assembled and tested.
+  <p>
+    <br/>
+    <img src="/assets/img/proto1.jpg" />
+  </p>
+ </dd>
  <dt>October '17</dt>
  <dd>Change of RFID technology, design revision 2.</dd>
  <dt>December '17</dt>
@@ -36,10 +41,18 @@
  <dt>March '18</dt>
  <dd>First system-level tests of the prototype with outdoor nestbox and actual owls.</dd>
  <dt>October '18</dt>
- <dd>Begin of batch production of 40 devices for a research project.</dd>
+ <dd>Beginning of batch production of 40 devices for a research project.
+  <p>
+    <br/>
+    <img src="/assets/img/batch_prod.jpg" />
+  </p>
+</dd>
  <dt>January '19</dt>
- <dd>Installation of the 40 devices.</dd>
+ <dd>Installation of the 40 devices.
+  <p>
+    <br/>
+    <img src="/assets/img/installation.jpg" />
+  </p>
+ </dd>
 </dl>
 
-<h2>System Diagram</h2>
-<img src="/assets/img/system.png" />
