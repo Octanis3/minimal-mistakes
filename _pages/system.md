@@ -56,3 +56,5 @@
  </dd>
 </dl>
 
+<h2>Documentation</h2>
+This project is open-source and open-hardware. Documentation is available on the <a href="https://wiki.octanis.org/octanisx/nestbox">Octanis wiki</a>. 
