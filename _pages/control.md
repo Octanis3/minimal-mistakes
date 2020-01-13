@@ -153,32 +153,32 @@
   <tr>
   	<td>N°1</td> 
    	<td><input type="text" id="adc_sensor_value1" value="?"></td>
-	<td><input type="number" id="manual_weight1" value="110"></td>	
+	<td><input type="number" id="manual_weight1" value="100"></td>	
 	<td><button type="button" id="btn_get1" style="width:130px">Insert ADC value</button></td>
 
   </tr>
   <tr>
   	<td>N°2</td> 
     <td><input type="text" id="adc_sensor_value2" value="?"></td>
-    <td><input type="number" id="manual_weight2" value="219"></td>
+    <td><input type="number" id="manual_weight2" value="200"></td>
     <td><button type="button" id="btn_get2" style="width:130px">Insert ADC value</button></td>
   </tr>
   <tr>
   	<td>N°3</td> 
     <td><input type="text" id="adc_sensor_value3" value="?"></td>
-    <td><input type="number" id="manual_weight3" value="328"></td>
+    <td><input type="number" id="manual_weight3" value="300"></td>
     <td><button type="button" id="btn_get3" style="width:130px">Insert ADC value</button></td>
   </tr>
   <tr>
   	<td>N°4</td> 
     <td><input type="text" id="adc_sensor_value4" value="?"></td>
-    <td><input type="number" id="manual_weight4" value="438"></td>
+    <td><input type="number" id="manual_weight4" value="400"></td>
     <td><button type="button" id="btn_get4" style="width:130px">Insert ADC value</button></td>
   </tr>
   <tr>
   	<td>N°5</td> 
     <td><input type="text" id="adc_sensor_value5" value="?"></td>
-    <td><input type="number" id="manual_weight5" value="547"></td>
+    <td><input type="number" id="manual_weight5" value="500"></td>
     <td><button type="button" id="btn_get5" style="width:130px">Insert ADC value</button></td>
   </tr>
 </table>
