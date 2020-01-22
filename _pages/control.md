@@ -1,5 +1,5 @@
 ---
-  title: "Configuration Center"
+  title: "Configuration Center (Beta)"
   layout: splash
   permalink: /config
   sidebar: false
@@ -10,7 +10,7 @@
 
 <html>
   <head>
-    <title>Nestbox Control Center</title>
+    <title>Nestbox Control Center (Beta)</title>
     <style>
       html, pre {
         font-family: sans-serif;
